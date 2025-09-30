@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+.venv/
+venv/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+reports/
+logs/
+task_manager-master/
